@@ -1,2 +1,2 @@
-# temperature_display
+# CitronTemperature
 macOS temperature display command
